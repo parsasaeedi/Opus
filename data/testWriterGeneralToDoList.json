@@ -1,0 +1,47 @@
+{
+    "finishedTasks": [{
+        "important": true,
+        "task": "Go to the gym",
+        "isDue": false,
+        "dateTimeAdded": "2021-10-28T21:50:30.913",
+        "completed": true,
+        "urgent": false,
+        "tags": ["Health"]
+    }],
+    "tasks": [
+        {
+            "important": true,
+            "task": "Finish CPSC 121 homework",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T21:50:30.908",
+            "completed": false,
+            "urgent": true,
+            "tags": ["University"]
+        },
+        {
+            "important": true,
+            "task": "Pay university tuition",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T21:50:30.913",
+            "completed": false,
+            "urgent": true,
+            "tags": [
+                "University",
+                "Money"
+            ]
+        },
+        {
+            "important": true,
+            "task": "Read CPSC 121 textbook",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T21:50:30.913",
+            "completed": false,
+            "urgent": true,
+            "tags": ["University"]
+        }
+    ],
+    "tags": [
+        "University",
+        "Money"
+    ]
+}

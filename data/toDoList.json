@@ -1,0 +1,167 @@
+{
+    "finishedTasks": [{
+        "important": false,
+        "task": "Study CPSC 221",
+        "isDue": false,
+        "dateTimeAdded": "2021-11-25T11:14:35.522",
+        "completed": true,
+        "urgent": false,
+        "tags": ["University"]
+    }],
+    "tasks": [
+        {
+            "important": true,
+            "task": "Finish CPSC 121 homework",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.568",
+            "completed": false,
+            "urgent": true,
+            "tags": ["University"]
+        },
+        {
+            "important": true,
+            "task": "Pay university tuition",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.588",
+            "completed": false,
+            "urgent": true,
+            "tags": [
+                "University",
+                "Money"
+            ]
+        },
+        {
+            "important": true,
+            "task": "Read CPSC 121 textbook",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": true,
+            "tags": ["University"]
+        },
+        {
+            "important": true,
+            "task": "Go to the gym",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": ["Health"]
+        },
+        {
+            "important": true,
+            "task": "Get dentist appointment",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": ["Health"]
+        },
+        {
+            "important": true,
+            "task": "Work",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "Work",
+                "Money"
+            ]
+        },
+        {
+            "important": true,
+            "task": "Study for midterms",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": ["University"]
+        },
+        {
+            "important": true,
+            "task": "Hangout with friends",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": ["Hobbies"]
+        },
+        {
+            "important": false,
+            "task": "Return calls",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": true,
+            "tags": [
+                "University",
+                "Work"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Get Milk",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "Home",
+                "Grocery"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Practice guitar",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": ["Hobbies"]
+        },
+        {
+            "important": false,
+            "task": "Check email",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "University",
+                "Work"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Buy eggs",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:08.589",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "Home",
+                "Grocery"
+            ]
+        },
+        {
+            "important": false,
+            "task": "sdfasdf",
+            "isDue": false,
+            "dateTimeAdded": "2021-11-25T11:14:57.013",
+            "completed": false,
+            "urgent": false,
+            "tags": ["Shopping"]
+        }
+    ],
+    "tags": [
+        "University",
+        "Money",
+        "Health",
+        "Work",
+        "Hobbies",
+        "Home",
+        "Grocery",
+        "Shopping"
+    ]
+}

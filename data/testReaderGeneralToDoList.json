@@ -1,0 +1,149 @@
+{
+    "finishedTasks": [],
+    "tasks": [
+        {
+            "important": true,
+            "task": "Finish CPSC 121 homework",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.417",
+            "completed": false,
+            "urgent": true,
+            "tags": ["university"]
+        },
+        {
+            "important": true,
+            "task": "Pay university tuition",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": true,
+            "tags": [
+                "university",
+                "money"
+            ]
+        },
+        {
+            "important": true,
+            "task": "Read CPSC 121 textbook",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": true,
+            "tags": ["university"]
+        },
+        {
+            "important": true,
+            "task": "Go to the gym",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": ["health"]
+        },
+        {
+            "important": true,
+            "task": "Get dentist appointment",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": ["health"]
+        },
+        {
+            "important": true,
+            "task": "Work",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "work",
+                "money"
+            ]
+        },
+        {
+            "important": true,
+            "task": "Study for midterms",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": ["university"]
+        },
+        {
+            "important": true,
+            "task": "Hangout with friends",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": ["hobbies"]
+        },
+        {
+            "important": false,
+            "task": "Return calls",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": true,
+            "tags": [
+                "university",
+                "work"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Get Milk",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "home",
+                "grocery"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Practice guitar",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": ["hobbies"]
+        },
+        {
+            "important": false,
+            "task": "Check email",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "university",
+                "work"
+            ]
+        },
+        {
+            "important": false,
+            "task": "Buy eggs",
+            "isDue": false,
+            "dateTimeAdded": "2021-10-28T20:38:59.495",
+            "completed": false,
+            "urgent": false,
+            "tags": [
+                "home",
+                "grocery"
+            ]
+        }
+    ],
+    "tags": [
+        "university",
+        "money",
+        "health",
+        "work",
+        "hobbies",
+        "home",
+        "grocery"
+    ]
+}
