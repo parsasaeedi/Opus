@@ -42,6 +42,10 @@ public class ToDoListApp {
 
         // Initialize
         toDoList = new ToDoList();
+
+        // Uncomment the following to add items for a demo
+        // toDoList.addItemsForDemo();
+
         input = new Scanner(System.in);
         input.useDelimiter("\n");
         jsonWriter = new JsonWriter(JSON_STORE);

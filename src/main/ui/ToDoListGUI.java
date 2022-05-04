@@ -16,6 +16,7 @@ import java.awt.event.*;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import javax.swing.event.*;
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 
@@ -61,7 +62,12 @@ public class ToDoListGUI extends JPanel implements ListSelectionListener, Action
 
         // Create the list of tabs and put it in a scroll pane.
         toDoList = new ToDoList();
-        toDoList.addItemsForDemo();
+
+        // The following is just to have at least 1 task before making the JList
+        toDoList.addTask("Task 1", new ArrayList<>(Arrays.asList("Tasks")), false, false);
+
+        // Uncomment the following to add items for demo
+        // toDoList.addItemsForDemo();
 
         tabs = new JList(toDoList.getTags().toArray());
         tabs.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
